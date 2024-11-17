@@ -22,3 +22,15 @@ form {
     width: 75%;
     margin: 0 auto;
 }
+
+body {
+    background-color: lightcyan;
+}
+
+
+
+.bot-container {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}

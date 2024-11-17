@@ -199,4 +199,14 @@ footer ul li a {
     width: 300px;
 }
 
+body {
+    background-color: lightcyan;
+}
 
+
+
+.bot-container {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
